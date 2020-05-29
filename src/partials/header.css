@@ -1,0 +1,12 @@
+.bottom-header li,
+.top-header li {
+  list-style: none;
+}
+
+.bottom-header ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=header.css.map */

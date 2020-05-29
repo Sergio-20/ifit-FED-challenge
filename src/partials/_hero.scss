@@ -1,0 +1,66 @@
+#hero-header {
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 64px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 72px;
+  max-width: 100%;
+  text-align: center;
+  width: 984px;
+}
+
+.cta-btn {
+  border-radius: 4px;
+  border-color: transparent;
+  background-color: #0069d2;
+  color: #fff;
+  margin-top: 1.5rem;
+  width: 392px;
+  height: 56px;
+}
+
+.cta-btn,
+.primary-btn {
+  transition: all 0.4s ease-in-out;
+}
+
+.cta-btn:hover,
+.primary-btn:hover {
+  background-color: rgb(0, 73, 147);
+}
+
+.hero-wrapper {
+  background: url("/images/man-on-treadmill.jpg");
+  background-position: center center;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  height: 801px;
+}
+
+@media only screen and (min-width: 960px) {
+  .cta-btn:hover,
+  .primary-btn:hover {
+    transform: scale(1.05);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #hero-header {
+    font-size: 30px;
+    max-width: 90%;
+  }
+
+  #hero-header,
+  .cta-btn {
+    position: relative;
+    top: -2rem;
+  }
+
+  .cta-btn {
+    max-width: 80%;
+  }
+}

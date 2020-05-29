@@ -1,0 +1,77 @@
+/* Asset Imports */
+/* Open Sans Fonts */
+@import "https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic";
+/* Animate.css */
+@import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css";
+/* Font Awesome */
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+/* Sass Partials */
+@import "./partials/equipment";
+@import "./partials/footer";
+@import "./partials/header";
+@import "./partials/hero";
+@import "./partials/slider";
+@import "./partials/workouts";
+/* CSS Files */
+@import "/slidein.css";
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth !important;
+}
+
+/* Styles Reset */
+body {
+  box-sizing: border-box;
+  font-family: "Open Sans";
+  margin: 0;
+  outline: 0;
+  overflow-x: hidden !important;
+  padding: 0;
+  width: 100%;
+}
+
+/* Defaults for HTML Elements */
+a:hover,
+button:hover {
+  cursor: pointer;
+}
+
+a {
+  color: rgba(46, 49, 52, 0.8);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0069d2;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+/* Classes */
+.cta-btn {
+  font-weight: 600;
+}
+
+.cta-btn,
+.primary-btn {
+  color: #fff;
+}
+
+.primary-btn {
+  /* Style for "SIGN UP" */
+  background-color: #0069d2;
+  border-radius: 4px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 0.5rem;
+}
