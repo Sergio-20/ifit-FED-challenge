@@ -19,3 +19,11 @@ HTML, CSS, Javascript, Sass (SCSS), jQuery, jQuery slideIn.js, and React were us
 ### Time To Complete
 
 In total this took about a day and a half for the work I completed.
+
+## Finished Result
+
+![Hero Section](/imgs-finished-webpage/hero.png "Hero")
+![Content Section](/imgs-finished-webpage/content.png "Content")
+![Content Section 2](/imgs-finished-webpage/content-2.png "Content 2")
+![Footer Section](/imgs-finished-webpage/footer.png "Footer")
+![Footer Section With Language Select](/imgs-finished-webpage/footer-language-select.png "Footer & Language Select")
