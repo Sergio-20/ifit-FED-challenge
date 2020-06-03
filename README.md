@@ -22,8 +22,8 @@ In total this took about a day and a half for the work I completed.
 
 ## Finished Result
 
-![Hero Section](/imgs-finished-webpage/hero.png "Hero")
-![Content Section](/imgs-finished-webpage/content.png "Content")
-![Content Section 2](/imgs-finished-webpage/content-2.png "Content 2")
-![Footer Section](/imgs-finished-webpage/footer.png "Footer")
-![Footer Section With Language Select](/imgs-finished-webpage/footer-language-select.png "Footer & Language Select")
+![](https://user-images.githubusercontent.com/29030325/83676379-6c0e3c00-a58f-11ea-9c7a-b29b23949d11.png)
+![](https://user-images.githubusercontent.com/29030325/83676366-69134b80-a58f-11ea-9e77-d19a6067cbc8.png)
+![](https://user-images.githubusercontent.com/29030325/83676370-6a447880-a58f-11ea-903a-b974661d47fc.png)
+![](https://user-images.githubusercontent.com/29030325/83676375-6b75a580-a58f-11ea-8962-368e2a0ba39b.png)
+![](https://user-images.githubusercontent.com/29030325/83676376-6b75a580-a58f-11ea-8278-f3725b260a54.png)
