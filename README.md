@@ -22,6 +22,8 @@ In total this took about a day and a half for the work I completed.
 
 ## Finished Result
 
+***Note: These are screenshots that were taken as I scrolled down. That is why there appears to be white space/image issues when there are not any issues.***
+
 ![](https://user-images.githubusercontent.com/29030325/83676379-6c0e3c00-a58f-11ea-9c7a-b29b23949d11.png)
 ![](https://user-images.githubusercontent.com/29030325/83676366-69134b80-a58f-11ea-9e77-d19a6067cbc8.png)
 ![](https://user-images.githubusercontent.com/29030325/83676370-6a447880-a58f-11ea-903a-b974661d47fc.png)
